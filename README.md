@@ -1,6 +1,6 @@
-- 👋 你好，我是肥猫叉烧 @Hunternotgod
+- 👋 你好，我是[肥猫叉烧](https://gitee.com/fat-cat-barbecue) @Hunternotgod
 - 🌱 java后端开发...
-- 💞️ [gitee：肥猫叉烧](https://gitee.com/fat-cat-barbecue)https://gitee.com/fat-cat-barbecue
+- 💞️ gitee：https://gitee.com/fat-cat-barbecue
 - 📫 我的邮箱：1215462706@qq.com
 
 
