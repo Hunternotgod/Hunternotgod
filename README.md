@@ -1,5 +1,4 @@
 - 👋 你好，我是[肥猫叉烧](https://gitee.com/fat-cat-barbecue) @Hunternotgod
-- 🌱 java、c#、dotnet
 - 💞️ gitee：https://gitee.com/fat-cat-barbecue
 - 📫 我的邮箱：1215462706@qq.com
 
